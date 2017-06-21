@@ -1,3 +1,8 @@
+/**
+ *
+ * Author: Matus Olejnik <matus.olejnik@gmail.com>
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
